@@ -1,0 +1,20 @@
+﻿SimpleTrader.WPF
+
+
+winexe
+C#
+.cs
+E:\Projects C#\SimpleTrader\SimpleTrader.WPF\obj\Debug\net6.0-windows\
+SimpleTrader.WPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+E:\Projects C#\SimpleTrader\SimpleTrader.WPF\App.xaml
+51548178527
+
+15-2144000173
+218324945814
+Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
+
+False
+

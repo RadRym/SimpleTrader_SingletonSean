@@ -1,0 +1,15 @@
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.deps.json
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.dll
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.pdb
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.Domain.dll
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.AssemblyReference.cache
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfoInputs.cache
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfo.cs
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.CoreCompileInputs.cache
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.CopyComplete
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.dll
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\refint\SimpleTrader.FinancialModelingPrepAPI.dll
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.pdb
+E:\Projects C#\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\ref\SimpleTrader.FinancialModelingPrepAPI.dll
